@@ -1,0 +1,8 @@
+{
+  "name": "magazinecontrolapp",
+  "app_id": "d36f9461",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
